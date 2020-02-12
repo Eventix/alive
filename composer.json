@@ -1,0 +1,13 @@
+{
+    "name": "eventix/alive",
+    "description": "Simple package used for trivial liveness check",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Mart Pluijmaekers",
+            "email": "mart@eventix.nl"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
